@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public interface Calc {
+public interface Calc{
+    public double sr();
 }
